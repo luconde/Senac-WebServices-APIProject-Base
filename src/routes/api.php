@@ -2,7 +2,7 @@
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
-use App\http\Controllers\Api\CategoriaController;
+use App\Http\Controllers\Api\CategoriaController;
 use App\Http\Controllers\Api\MarcaController;
 use App\Http\Controllers\Api\ClienteController;
 use App\Http\Controllers\Api\PedidoController;

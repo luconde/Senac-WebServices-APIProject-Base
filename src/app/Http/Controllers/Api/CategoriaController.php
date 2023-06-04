@@ -25,8 +25,6 @@ class CategoriaController extends Controller
             'mensagem' => 'Lista de categorias retornada',
             'categorias' => CategoriaResource::collection($categorias)
         ], 200);
-
-        //comentario
     }
 
     /**
